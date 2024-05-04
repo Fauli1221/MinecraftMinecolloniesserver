@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/pages.yml"
-hash = "a8817f106c9412098daeecacbf88531d96fd0ac3f14fdf17a849759d44ae5580"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -979,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b227e86d2e4deee90a78a3ce3ee9ba58ea6bd228397350f617f336acb5cc2831"
+hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
 
 [[files]]
@@ -1313,8 +1309,8 @@ hash = "d4176fea97d6e79e55fd140dea4a23b62d11f591f1c040542a8d61ebf3751a20"
 metafile = true
 
 [[files]]
-file = "mods/towers-of-the-wild-modded.pw.toml"
-hash = "42135c5e65617571cca69bd95df510355b13d62d6f6190ff71ed5d81a87c18a0"
+file = "mods/totw-modded.pw.toml"
+hash = "cc4d196949d893071f261e939501ca8c7a79ba8ced3d790ce98d25e4f207bca3"
 metafile = true
 
 [[files]]
