@@ -9,6 +9,8 @@ hash-format = "sha256"
 hash = "14df41a48e6bfbf8d7b6b85f021d31e02d1ba8a326cf910462f5aa5ec6223034"
 
 [versions]
-forge = "47.2.0"
 minecraft = "1.20.1"
 neoforge = "47.1.105"
+
+[options]
+no-internal-hashes = true
